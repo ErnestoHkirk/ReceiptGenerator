@@ -47,13 +47,13 @@ vector. Then we used the iomanip library along with other built in functions to 
 receipt.
 
 # PROGRAM OUTPUT / SAMPLE RUNS #
+
 ## Receipt if Payment is in Cash: ##
 
 ![image](https://user-images.githubusercontent.com/37064367/67988306-d3749f80-fbec-11e9-95df-c61e888a4fdb.png)
 
 ![image](https://user-images.githubusercontent.com/37064367/67988315-d66f9000-fbec-11e9-9e72-d1db23583dcc.png)
 
-# PROGRAM OUTPUT / SAMPLE RUNS #
 ## Receipt if Payment is by Card: ##
 
 ![image](https://user-images.githubusercontent.com/37064367/67988321-d96a8080-fbec-11e9-92fc-658634388c5e.png)

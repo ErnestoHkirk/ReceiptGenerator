@@ -1,4 +1,4 @@
-# Receipt Printer
+# Receipt Generator
 Program to output formatted receipt to purchaser, updating current inventory 
 
 #### CSCI 123–Final Project: Receipt Printer - Ernesto, Dylan  ####

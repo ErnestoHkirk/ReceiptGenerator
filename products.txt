@@ -1,0 +1,50 @@
+1,Pizza,Frozen,5,990
+2,Eggo Waffles,Frozen,2,990
+3,Corndogs,Frozen,8.99,980
+4,Burritos,Frozen,0.99,1000
+5,Chicken Nuggets,Frozen,5.99,990
+6,Tator Tots,Frozen,2.99,1000
+7,French Frys,Frozen,3.99,1000
+8,Pizza Rolls,Frozen,4.99,1000
+9,Hungry Man Turkey Dinner,Frozen,4,1000
+10,Lean Cuisine Orange Chicken,Frozen,3,1000
+11,Hotdogs,Meat,5,1000
+12,Ground Beef,Meat,3.89,990
+13,Ground Turkey,Meat,2.89,1000
+14,Chicken Breasts,Meat,1.99,1000
+15,Whole Chicken,Meat,9.99,1000
+16,Whole Turkey,Meat,19.99,1000
+17,Sausage,Meat,3.99,1000
+18,Chorizo,Meat,1.99,1000
+19,Salmon,Meat,9.99,1000
+20,Shrimp,Meat,1.99,1000
+21,Yogurt,Dairy,0.99,1000
+22,Milk,Dairy,2,1000
+23,Half and Half,Dairy,4,1000
+24,Pepper Jack Cheese,Dairy,3.59,1000
+25,Cheddar Cheese,Dairy,3.95,1000
+26,Sour Cream,Dairy,1.99,1000
+27,Cottage Cheese,Dairy,4.99,1000
+28,Broccoli,Produce,2.39,1000
+29,Spinach,Produce,5.99,1000
+30,Red Potato,Produce,1.99,1000
+31,Russet Potato,Produce,0.99,1000
+32,Romaine Lettuce,Produce,0.99,1000
+33,Carrots,Produce,0.99,1000
+34,Apple,Produce,0.89,1000
+35,Bananas,Produce,0.79,1000
+36,Avocado,Produce,1.99,1000
+37,Onion,Produce,0.99,1000
+38,Bell Pepper,Produce,0.75,1000
+39,Jalapeno,Produce,0.49,1000
+40,Orange,Produce,0.99,1000
+41,Lemon,Produce,0.99,1000
+42,Oreos,Snacks,2,1000
+43,Cheez-Its,Snacks,3,1000
+44,Cereal,Snacks,4,1000
+45,Pop Tarts,Snacks,5,1000
+46,Chips,Snacks,4.99,1000
+47,Popcorn,Snacks,4.49,1000
+48,Beef Jerky,Snacks,6.49,1000
+49,Ritz Crackers,Snacks,3.54,1000
+50,Granola Bar,Snacks,2.99,1000

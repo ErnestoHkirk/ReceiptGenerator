@@ -1,8 +1,7 @@
 # ReceiptPrinter
 Program to output formatted receipt to purchaser updating current inventory 
 
-#### CSCI 123–Final Project: Receipt Printer ####
-##### Ernesto, Dylan #####
+#### CSCI 123–Final Project: Receipt Printer - Ernesto, Dylan  ####
 
 ### Purpose of the Project ###
 The purpose of this project is to take in a file with items to be purchased from user, then
